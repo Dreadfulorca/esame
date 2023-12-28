@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: esame
+Upstream-Contact: Alessandro Manucci <manucci2004@gmail.com>
+Source: https://github.com/Dreadfulorca/esame
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
